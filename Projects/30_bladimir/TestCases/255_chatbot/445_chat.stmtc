@@ -1,0 +1,39 @@
+[
+  {
+    "TempId": 445,
+    "AUT": "",
+    "Description": "",
+    "StatusKey": "NEW",
+    "isMobile": false,
+    "TestCaseType": 3,
+    "DataSheet": null,
+    "Scenario": null,
+    "TestSteps": [
+      {
+        "TempId": 8651,
+        "StepNumber": 1,
+        "ActionId": 67,
+        "ComponentId": null,
+        "CustomActionId": null,
+        "StepSectionId": 2,
+        "ObjectDictionaryId": null,
+        "LocatorTypeId": null,
+        "Screenshot": false,
+        "SkipStep": false,
+        "Description": null,
+        "Locator": null,
+        "Value": null,
+        "Status": "Pending",
+        "UserSays": "ll",
+        "BotSays": "l",
+        "Parameters": [],
+        "Name": null,
+        "Created": null,
+        "Modified": null
+      }
+    ],
+    "Name": "chat",
+    "Created": null,
+    "Modified": null
+  }
+]
